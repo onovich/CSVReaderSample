@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: RoleCSV
+  m_EditorClassIdentifier: 
+  m_GroupName: RoleCSV
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 893d2e7c772ef4ef891db174f5d4e0e5
+  m_SerializeEntries:
+  - m_GUID: 45dd4237cd7a94729af677ddaa1ea66b
+    m_Address: RoleCSV
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CSV_Role
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e097bf3f0d6094354a1ce95b2a0f5d9a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 937f4151210334ab5a33c3674c929700, type: 2}
+    - {fileID: 11400000, guid: 0ef7a632fa5234e118b491af25e068cf, type: 2}
